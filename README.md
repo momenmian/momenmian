@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @momenmian
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Something New
 - 📫 How to reach me mohammadmomenmian@hotmail.com
 

@@ -1,4 +1,4 @@
-[![MasterHead](https://i.postimg.cc/D0JLCpY8/banner.gif)]
+![MasterHead](https://i.postimg.cc/D0JLCpY8/banner.gif)
 <h1 align="center">Hi 👋, I'm Abdul Momen Mian</h1>
 <h3 align="center">Jeblu dreams to make this cyber world much more secure where has no concern 'bout cyber crimes</h3>
 <img align="right" alt="Coding" width="200" src="https://i.postimg.cc/jtBDrDrR/73107286f9343757971a78b76ede85a7-sticker.png">

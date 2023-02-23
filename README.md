@@ -1,7 +1,7 @@
 [![MasterHead](https://giphy.com/embed/WRoLGgwE4xTQYTxyJg)]
 <h1 align="center">Hi 👋, I'm Abdul Momen Mian</h1>
 <h3 align="center">Jeblu dreams to make this cyber world much more secure where has no concern 'bout cyber crimes</h3>
-<img align="right" alt="Coding" width="400" src="https://i.postimg.cc/jtBDrDrR/73107286f9343757971a78b76ede85a7-sticker.png?dl=1">
+<img align="right" alt="Coding" width="400" src="https://i.postimg.cc/jtBDrDrR/73107286f9343757971a78b76ede85a7-sticker.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=momenmian&label=Profile%20views&color=0e75b6&style=flat" alt="momenmian" /> </p>
 

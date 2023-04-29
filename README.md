@@ -1,5 +1,5 @@
 ![MasterHead](https://i.postimg.cc/029BgC1P/ezgif-3-8e0110cf16.gif)
-<h1 align="center">Hi 👋, I'm Abdul Momen Mian</h1>
+<h1 align="center">Hi 👋, I'm Abdul Momen Miah</h1>
 <h3 align="center">Lifelong learner and problem-solver passionate about finding creative solutions to challenges</h3>
 <img align="right" alt="Coding" width="100" src="https://i.postimg.cc/jtBDrDrR/73107286f9343757971a78b76ede85a7-sticker.png">
 

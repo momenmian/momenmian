@@ -59,10 +59,10 @@ I am lifelong **Learner** and **Problem-Solver** passionate about finding **Crea
 <details>
   <summary><h2> <img align="center" src="https://github.com/momenmian/momenmian/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
   <div align="center">
-    ![stats](https://github-readme-stats.vercel.app/api?username=momenmian&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-    ![stats](https://github-readme-streak-stats.herokuapp.com/?user=momenmian&theme=tokyonight&hide_border=false)<br/>
-    ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=momenmian&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-    ![stats](https://github-readme-activity-graph.vercel.app/graph?username=momenmian&theme=tokyo-night)
+    ![](https://github-readme-stats.vercel.app/api?username=momenmian&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=momenmian&theme=tokyonight&hide_border=false)<br/>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=momenmian&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+    ![](https://github-readme-activity-graph.vercel.app/graph?username=momenmian&theme=tokyo-night)
   </div>
 </details>
 

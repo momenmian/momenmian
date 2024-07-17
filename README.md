@@ -67,5 +67,29 @@ I am lifelong **Learner** and **Problem-Solver** passionate about finding **Crea
 </details>
 
 
+  ### Leetcode
+  <div align="center">
+
+  ![LeetCode Stats](https://leetcode.card.workers.dev/momenmian?theme=auto&font=baloo&extension=null)
+
+  </div>
 
 
+<details>
+  <summary><h2> <img align="center" src="https://github.com/momenmian/momenmian/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
+  <p>
+    <i>You can reach out to me via</i>
+    <a href="mailto:mohammadmomenmian@hotmail.com">
+      <img align="center" src="https://github.com/momenmian/momenmian/blob/main/icons/Gmail.gif" width="100"/>
+    </a>
+  </p>
+</details>
+
+<details>
+  <summary>Click to see a random joke</summary>
+  <div align="center">
+
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+
+  </div>
+</details>

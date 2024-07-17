@@ -93,3 +93,5 @@ I am lifelong **Learner** and **Problem-Solver** passionate about finding **Crea
 
   </div>
 </details>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)

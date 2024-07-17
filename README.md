@@ -24,7 +24,7 @@ I am lifelong **Learner** and **Problem-Solver** passionate about finding **Crea
 
  <details>
   <summary><h4> <img align="center" src="https://github.com/momenmian/momenmian/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
-  <span><img src="https://img.shields.io/badge/BTECH-BRAC University-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/BScCSE-BRAC University-1877F2?style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/CGPA-3.55-EFEEE9?style=for-the-badge"></span>
  </details>
 
@@ -33,6 +33,18 @@ I am lifelong **Learner** and **Problem-Solver** passionate about finding **Crea
   - **Tech Talents ** at BRAC Bank PLC | September 2023 - Current
     - [Work Description]
  </details>
+</details>
+
+<details>
+  <summary><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/> Coding Handles</h4></summary>
+  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/momenmian)
+</details>
+
+<details>
+  <summary><h4> <img align="center" src="https://github.com/momenmian/momenmian/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 </details>
 
 

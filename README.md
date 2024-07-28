@@ -80,6 +80,8 @@ I am dedicated to advancing **automation, selenium, machine learning, and genera
   - Utilizes libraries and frameworks for natural language processing and machine learning.
 </details>
 
+</details>
+
 <details>
   <summary><h2> <img align="center" src="https://github.com/momenmian/momenmian/blob/main/icons/stats.gif"  width="32"/> Stats</h2></summary>
 

@@ -33,25 +33,12 @@ I am dedicated to advancing **automation, selenium, machine learning, and genera
  <details>
   <summary><h4> <img align="center" src="https://github.com/momenmian/momenmian/blob/main/icons/experience.gif"  width="29"/> Experience</h2></summary>
 
-- **Frontend Developer Intern** at Magpie XYZ (Remote) | Jan 2024 - May 2024
+- **Tech Talents** at BRAC Bank PLC | September 2023 - Current
   - Integrated Cakepie, Magpie, Eigenpie pages, facilitating deposits exceeding $800 million.
   - Enhanced data accuracy by 30% through seamless integration of smart contracts into the front-end.
   - Improved UI loading speed and mobile responsiveness, reducing user-reported bugs by 20%.
-
-- **Content Strategist - MERN Stack Intern** at TestBook (Remote) | Oct 2022 - Nov 2022
-  - Enhanced interactive coursework modules for data structures and web development, increasing student engagement by 30%.
-  - Mentored over 100 students in DSA & Web Development, significantly improving their technical proficiency.
-
-- **Content Writer Intern** at Toppr Learning Inc (Remote) | Jul 2021 - Oct 2021
-  - Transformed JEE Mathematics learning for over 10 batches by designing innovative visual-based presentations and solutions.
 </details>
 
- <details>
-  <summary><h4> <img align="center" src="https://github.com/momenmian/momenmian/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
-  - **Tech Talents at BRAC Bank PLC | September 2023 - Current
-    - [Work Description]
- </details>
-</details>
 
 <details>
   <summary><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/> Coding Handles</h4></summary>

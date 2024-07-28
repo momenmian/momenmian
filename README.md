@@ -24,8 +24,7 @@ I am dedicated to advancing **automation, selenium, machine learning, and genera
 
  <details>
   <summary><h4> <img align="center" src="https://github.com/momenmian/momenmian/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
-  <span><img src="https://img.shields.io/badge/BScCSE-BRAC University-1877F2?style=for-the-badge"></span>
-  <span><img src="https://img.shields.io/badge/CGPA-3.55-EFEEE9?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/BSc-CSE-BRAC University-1877F2?style=for-the-badge"></span>
  </details>
 
  <details>

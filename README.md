@@ -142,3 +142,11 @@ I am dedicated to advancing **automation, selenium, machine learning, and genera
 </details>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/momenmian/momenmian/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/momenmian/momenmian/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/momenmian/momenmian/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>

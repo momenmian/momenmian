@@ -28,18 +28,10 @@ I am dedicated to advancing **automation, selenium, machine learning, and genera
   <span><img src="https://img.shields.io/badge/CSE-BRAC University-1877F2?style=for-the-badge"></span>
  </details>
 
- <details>
- <summary><h2> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/about.png" width="37" /> Resume</h2></summary>
- 
- <details>
-  <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/academics.gif"  width="29"/> Academics</h2></summary>
-
-  <span><img src="https://img.shields.io/badge/BTECH-DTU_ECE'24-1877F2?style=for-the-badge"></span>
-  <span><img src="https://img.shields.io/badge/GPA-9.45/10.0-EFEEE9?style=for-the-badge"></span>
   
 </details>
  <details>
-  <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/experience.gif"  width="29"/> Experience</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/momenmian/momenmian/blob/main/icons/experience.gif"  width="29"/> Experience</h2></summary>
 
 - **Frontend Developer Intern** at Magpie XYZ (Remote) | Jan 2024 - May 2024
   - Integrated Cakepie, Magpie, Eigenpie pages, facilitating deposits exceeding $800 million.

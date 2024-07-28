@@ -91,6 +91,27 @@ I am dedicated to advancing **automation, selenium, machine learning, and genera
   </div>
 </details>
 
+<details>
+  <summary><h2> <img align="center" src="https://github.com/momenmian/momenmian/blob/main/icons/stats.gif"  width="32"/> Stats</h2></summary>
+
+  ### Leetcode
+  <div align="center">
+  <a href="https://leetcode.com/binarysolver">
+  <img height="316" src="https://leetcard.jacoblin.cool/momenmian?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/binarysolver/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Binary Solver Leetcode Stats"/>
+  </a>
+ </div>
+
+  
+  ### GitHub
+  <div align="center">
+
+   ![](https://github-readme-stats.vercel.app/api?username=momenmian&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=momenmian&theme=tokyonight&hide_border=false)<br/>
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=momenmian&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+   ![](https://github-readme-activity-graph.vercel.app/graph?username=momenmian&theme=tokyo-night)
+
+  </div>
+</details>
 
   ### Leetcode
   <div align="center">

@@ -82,16 +82,6 @@ I am dedicated to advancing **automation, selenium, machine learning, and genera
 </details>
 
 <details>
-  <summary><h2> <img align="center" src="https://github.com/momenmian/momenmian/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
-  <div align="center">
-    ![](https://github-readme-stats.vercel.app/api?username=momenmian&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=momenmian&theme=tokyonight&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=momenmian&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-    ![](https://github-readme-activity-graph.vercel.app/graph?username=momenmian&theme=tokyo-night)
-  </div>
-</details>
-
-<details>
   <summary><h2> <img align="center" src="https://github.com/momenmian/momenmian/blob/main/icons/stats.gif"  width="32"/> Stats</h2></summary>
 
   ### Leetcode
@@ -112,13 +102,6 @@ I am dedicated to advancing **automation, selenium, machine learning, and genera
 
   </div>
 </details>
-
-  ### Leetcode
-  <div align="center">
-
-  ![LeetCode Stats](https://leetcode.card.workers.dev/momenmian?theme=auto&font=baloo&extension=null)
-
-  </div>
 
 
 <details>

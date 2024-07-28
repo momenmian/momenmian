@@ -30,7 +30,7 @@ I am dedicated to advancing **automation, selenium, machine learning, and genera
 
  <details>
   <summary><h4> <img align="center" src="https://github.com/momenmian/momenmian/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
-  - **Tech Talents ** at BRAC Bank PLC | September 2023 - Current
+  - **Tech Talents at BRAC Bank PLC | September 2023 - Current
     - [Work Description]
  </details>
 </details>

@@ -29,6 +29,32 @@ I am dedicated to advancing **automation, selenium, machine learning, and genera
  </details>
 
  <details>
+ <summary><h2> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/about.png" width="37" /> Resume</h2></summary>
+ 
+ <details>
+  <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/academics.gif"  width="29"/> Academics</h2></summary>
+
+  <span><img src="https://img.shields.io/badge/BTECH-DTU_ECE'24-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/GPA-9.45/10.0-EFEEE9?style=for-the-badge"></span>
+  
+</details>
+ <details>
+  <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/experience.gif"  width="29"/> Experience</h2></summary>
+
+- **Frontend Developer Intern** at Magpie XYZ (Remote) | Jan 2024 - May 2024
+  - Integrated Cakepie, Magpie, Eigenpie pages, facilitating deposits exceeding $800 million.
+  - Enhanced data accuracy by 30% through seamless integration of smart contracts into the front-end.
+  - Improved UI loading speed and mobile responsiveness, reducing user-reported bugs by 20%.
+
+- **Content Strategist - MERN Stack Intern** at TestBook (Remote) | Oct 2022 - Nov 2022
+  - Enhanced interactive coursework modules for data structures and web development, increasing student engagement by 30%.
+  - Mentored over 100 students in DSA & Web Development, significantly improving their technical proficiency.
+
+- **Content Writer Intern** at Toppr Learning Inc (Remote) | Jul 2021 - Oct 2021
+  - Transformed JEE Mathematics learning for over 10 batches by designing innovative visual-based presentations and solutions.
+</details>
+
+ <details>
   <summary><h4> <img align="center" src="https://github.com/momenmian/momenmian/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
   - **Tech Talents at BRAC Bank PLC | September 2023 - Current
     - [Work Description]

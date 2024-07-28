@@ -34,9 +34,12 @@ I am dedicated to advancing **automation, selenium, machine learning, and genera
   <summary><h4> <img align="center" src="https://github.com/momenmian/momenmian/blob/main/icons/experience.gif"  width="29"/> Experience</h2></summary>
 
 - **Tech Talents** at BRAC Bank PLC | September 2023 - Current
-  - Integrated Cakepie, Magpie, Eigenpie pages, facilitating deposits exceeding $800 million.
-  - Enhanced data accuracy by 30% through seamless integration of smart contracts into the front-end.
-  - Improved UI loading speed and mobile responsiveness, reducing user-reported bugs by 20%.
+  - Developed ML-based automation for reading, categorizing, and responding to messages, enhancing communication efficiency.
+  - Automated banking tasks with RPA, ML, and Gen AI, boosting operational efficiency.
+ 
+- **Content Creator** | April 2023 - Current
+  - Technevo: Latest Technology, Artificial Intelligence, Tech Life
+
 </details>
 
 

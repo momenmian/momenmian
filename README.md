@@ -49,7 +49,7 @@ I am dedicated to advancing **automation, selenium, machine learning, and genera
   
 </details>
 
-details>
+<details>
   <summary><h4> <img align="center" src="https://github.com/momenmian/momenmian/blob/main/icons/techstack.gif"  width="29"/> Tech Stack</h2></summary>
 
   #### Languages

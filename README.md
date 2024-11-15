@@ -32,7 +32,7 @@ I am dedicated to advancing **automation, selenium, machine learning, and genera
  <details>
   <summary><h4> <img align="center" src="https://github.com/momenmian/momenmian/blob/main/icons/experience.gif"  width="29"/> Experience</h2></summary>
 
-- **Tech Talents** at BRAC Bank PLC | September 2023 - Current
+- **Associate Manager** at BRAC Bank PLC | September 2023 - Current
   - Developed ML-based automation for reading, categorizing, and responding to messages, enhancing communication efficiency.
   - Automated banking tasks with RPA, ML, and Gen AI, boosting operational efficiency.
  

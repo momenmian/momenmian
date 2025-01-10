@@ -73,6 +73,8 @@ Passionate software engineer with a focus on **AI**. Currently working on the Pr
 
 
   #### Tools
+  ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white)
+  ![Anthropic](https://img.shields.io/static/v1?style=for-the-badge&message=Anthropic&color=191919&logo=Anthropic&logoColor=FFFFFF&label=)
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 </details>

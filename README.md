@@ -31,7 +31,7 @@ Passionate software engineer with a focus on **AI**. Currently working on the Pr
  <details>
   <summary><h4> <img align="center" src="https://github.com/momenmian/momenmian/blob/main/icons/experience.gif"  width="29"/> Experience</h2></summary>
 
-- **Associate Manager** at BRAC Bank PLC | September 2023 - Current
+- **Associate Manager, Process Automation and R&D** at BRAC Bank PLC | September 2023 - Current
   - Developed a customer grading system using machine learning algorithms, streamlining loan disbursement and significantly reducing processing time.
   - Automated an email classification system powered by machine learning, categorizing customer queries to improve communication efficiency and reduce manual intervention.
   - Implemented an automated mailing system, integrating detailed Excel sheets for different employee levels to ensure accurate and timely customer data distribution, improving productivity by 50%.

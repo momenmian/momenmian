@@ -12,8 +12,7 @@
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-I am dedicated to advancing **automation, selenium, machine learning, and generative AI**. My passion lies in creating intelligent systems that streamline processes and drive innovation. In the future, I aim to explore advanced AI techniques and apply them across various industries to push technological boundaries.
-
+Passionate software engineer with a focus on **AI**. Currently working on the Process Automation and R&D team at BBPLC.
 <details>
  <summary>
     <h2> 

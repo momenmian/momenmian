@@ -120,7 +120,7 @@ Passionate software engineer with a focus on **AI**. Currently working on the Pr
 
 
 <details>
-  <summary><h2> <img align="center" src="https://github.com/momenmian/momenmian/blob/main/icons/Contact_2.gif" width="37"/> Contact Me</h2></summary>
+  <summary><h2> <img align="center" src="https://github.com/momenmian/momenmian/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
   <p>
     <i>You can reach out to me via</i>
     <a href="mailto:mohammadmomenmian@hotmail.com">

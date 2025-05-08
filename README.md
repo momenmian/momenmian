@@ -82,20 +82,6 @@ I’m passionate about using AI, Machine Learning, and Large Language Models (LL
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 </details>
 
-
-<details>
-  <summary><h4> <img align="center" src="https://github.com/momenmian/momenmian/blob/main/icons/projects.gif" width="29"/> Projects</h4></summary>
-
-  #### <a href="https://github.com/momenmian/chatbot">Chat Bot</a>
-  <span><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></span> 
-  - Utilizes libraries and frameworks for natural language processing and machine learning.
-</details>
-
-</details>
-
-<details>
-  <summary><h2> <img align="center" src="https://github.com/momenmian/momenmian/blob/main/icons/stats.gif"  width="32"/> Stats</h2></summary>
-
   ### Leetcode
   <div align="center">
   <a href="https://leetcode.com/binarysolver">

@@ -12,7 +12,7 @@
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-Passionate software engineer with a focus on **AI**. Currently working on the Process Automation and R&D team at BBPLC.
+I’m passionate about using AI, Machine Learning, and Large Language Models (LLMs) to simplify complex problems. I love building intelligent tools that automate tasks, generate insights, and make tech feel seamless. Always learning, always experimenting.
 <details>
  <summary>
     <h2> 

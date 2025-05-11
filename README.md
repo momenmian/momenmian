@@ -109,7 +109,7 @@ I’m passionate about using AI, Machine Learning, and Large Language Models (LL
  ![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)
  ![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff)
 
- # 🖼️ Framework
+ ### 🖼️ Framework
  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
  ![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)
  ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
@@ -139,6 +139,11 @@ I’m passionate about using AI, Machine Learning, and Large Language Models (LL
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)
 
+### 📱 Social Media
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)
+![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)
+![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)
+ 
 ### 🔖 Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 </details>

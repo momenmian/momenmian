@@ -62,14 +62,6 @@ I’m passionate about using AI, Machine Learning, and Large Language Models (LL
   #### ✏️ Blog
   ![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)
 
-  ### 🌐 Browser
-  ![Arc](https://img.shields.io/badge/Arc-FCBFBD?logo=arc&logoColor=000)
-  ![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)
-  ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)
-  ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)
-  ![Safari](https://img.shields.io/badge/Safari-006CFF?logo=safari&logoColor=fff)
-  ![Tor](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white)
-
   ### ☁️ Cloud System
   ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
   ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)

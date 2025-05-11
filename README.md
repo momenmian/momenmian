@@ -61,6 +61,7 @@ I’m passionate about using AI, Machine Learning, and Large Language Models (LL
 
   #### ✏️ Blog
   ![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)
+  ![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff)
 
   ### ☁️ Cloud System
   ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
@@ -69,6 +70,7 @@ I’m passionate about using AI, Machine Learning, and Large Language Models (LL
 
   ### 💻 Code Editor
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
+  ![Replit](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff)
   ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
   ![Zed](https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF)
 

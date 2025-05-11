@@ -75,13 +75,6 @@ I’m passionate about using AI, Machine Learning, and Large Language Models (LL
   ![Safari](https://img.shields.io/badge/Safari-006CFF?logo=safari&logoColor=fff)
   ![Tor](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white)
 
-  ### 🌫️ Cloud Storage
-  ![Dropbox](https://img.shields.io/badge/Dropbox-0061FF?logo=dropbox&logoColor=fff)
-	![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)
-  ![iCloud](https://img.shields.io/badge/iCloud-3693F3?logo=icloud&logoColor=fff)
-  ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)
-  ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)
-
   ### ☁️ Cloud System
   ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
   ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
@@ -89,16 +82,12 @@ I’m passionate about using AI, Machine Learning, and Large Language Models (LL
 
   ### 💻 Code Editor
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
-  ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)
-  ![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)
   ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
   ![Zed](https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF)
 
   ### 🤝 Collaboration Tool
-  ![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)
   ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)
   ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)
-  ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)
 
   ### ⛈️ Database
   ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
@@ -135,13 +124,10 @@ I’m passionate about using AI, Machine Learning, and Large Language Models (LL
  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
  ![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)
  ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)
-![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)
-![SvelteKit](https://img.shields.io/badge/SvelteKit-%23f1413d.svg?logo=svelte&logoColor=white)
+ ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+ ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
+ ![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)
+ ![SvelteKit](https://img.shields.io/badge/SvelteKit-%23f1413d.svg?logo=svelte&logoColor=white)
 
 ### 🖥️ Operating System
 ![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)
@@ -161,7 +147,6 @@ I’m passionate about using AI, Machine Learning, and Large Language Models (LL
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)
 

@@ -82,6 +82,68 @@ I’m passionate about using AI, Machine Learning, and Large Language Models (LL
   ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)
   ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)
 
+  ### ☁️ Cloud System
+  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
+  ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
+
+  ### 💻 Code Editor
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
+  ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)
+  ![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)
+  ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
+  ![Zed](https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF)
+
+  ### 🤝 Collaboration Tool
+  ![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)
+  ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)
+  ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)
+  ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)
+
+  ### ⛈️ Database
+  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
+  ![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+  ![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
+  ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)
+
+  ### 📊 Data Science
+  ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)
+  ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)
+  [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)
+
+  ### 📄 Documentation
+  ![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)
+
+ ### 🎓 Education
+ ![Codecademy](https://img.shields.io/badge/Codecademy-%2321759B.svg?logo=codecademy&logoColor=white)
+ ![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)
+ ![edX](https://img.shields.io/badge/edX-02262B?logo=edx&logoColor=fff)
+ ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff)
+ ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white)
+ ![Khan Academy](https://img.shields.io/badge/Khan%20Academy-14BF96?logo=khanacademy&logoColor=fff)
+ ![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff)
+ ![Pluralsight](https://img.shields.io/badge/Pluralsight-F15B2A?logo=pluralsight&logoColor=fff)
+ ![Udacity](https://img.shields.io/badge/Udacity-02B3E4?logo=udacity&logoColor=fff)
+ ![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)
+ ![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff)
+
+ # 🖼️ Framework
+ ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+ ![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)
+ ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)
+![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-%23f1413d.svg?logo=svelte&logoColor=white)
+ 
+
   #### Languages
   
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 

@@ -80,7 +80,6 @@ I’m passionate about using AI, Machine Learning, and Large Language Models (LL
   ![Anthropic](https://img.shields.io/static/v1?style=for-the-badge&message=Anthropic&color=191919&logo=Anthropic&logoColor=FFFFFF&label=)
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-  ![Notion](https://img.shields.io/badge/aegisauthenticator)
 </details>
 
   ### Leetcode

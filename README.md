@@ -55,7 +55,32 @@ I’m passionate about using AI, Machine Learning, and Large Language Models (LL
 
   ### 🤖 Artificial Intelligence
   ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
-  
+  ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
+  ![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)
+  ![Firebase Studio](https://custom-icon-badges.demolab.com/badge/Firebase%20Studio-F66C21?logo=firebase-studio&logoColor=fff)
+  ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)
+  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)
+  ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)
+  ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)
+  ![v0](https://img.shields.io/badge/v0-000?logo=v0&logoColor=fff)
+
+  #### ✏️ Blog
+  ![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)
+
+  ### 🌐 Browser
+  ![Arc](https://img.shields.io/badge/Arc-FCBFBD?logo=arc&logoColor=000)
+  ![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)
+  ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)
+  ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)
+  ![Safari](https://img.shields.io/badge/Safari-006CFF?logo=safari&logoColor=fff)
+  ![Tor](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white)
+
+  ### 🌫️ Cloud Storage
+  ![Dropbox](https://img.shields.io/badge/Dropbox-0061FF?logo=dropbox&logoColor=fff)
+	![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)
+  ![iCloud](https://img.shields.io/badge/iCloud-3693F3?logo=icloud&logoColor=fff)
+  ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)
+  ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)
 
   #### Languages
   

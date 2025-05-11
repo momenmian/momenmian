@@ -53,6 +53,10 @@ I’m passionate about using AI, Machine Learning, and Large Language Models (LL
 <details>
   <summary><h4> <img align="center" src="https://github.com/momenmian/momenmian/blob/main/icons/techstack.gif"  width="29"/> Tech Stack</h2></summary>
 
+  ### 🤖 Artificial Intelligence
+  ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
+  
+
   #### Languages
   
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 

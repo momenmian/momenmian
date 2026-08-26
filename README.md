@@ -12,7 +12,7 @@
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-I’m passionate about using AI, Machine Learning, and Large Language Models (LLMs) to simplify complex problems. I love building intelligent tools that automate tasks, generate insights, and make tech feel seamless. Always learning, always experimenting.
+AI Engineer building production LLM and automation systems inside a regulated bank, where security, auditability, and human oversight aren’t optional; they’re the job. I created BRACBankGPT, the first internal generative AI chatbot in Bangladesh’s banking sector. I write about AI and automation on the side.
 <details>
  <summary>
     <h2> 
@@ -31,10 +31,10 @@ I’m passionate about using AI, Machine Learning, and Large Language Models (LL
  <details>
   <summary><h4> <img align="center" src="https://github.com/momenmian/momenmian/blob/main/icons/experience.gif"  width="29"/> Experience</h2></summary>
 
-- **Associate Manager, Process Automation and R&D** at BRAC Bank PLC | September 2023 - Current
-    
-- **Content Creator** | April 2023 - Current
-  - Technevo: Latest Technology, Artificial Intelligence, Tech Life
+- **Associate Manager, R&D (AI & Machine Learning)** — Process Automation & R&D, BRAC Bank PLC | September 2023 - Current
+  - Created **BRACBankGPT**, the first internal generative AI chatbot in Bangladesh’s banking sector (RAG + FAISS, fully on-prem, regulation-compliant)
+  - Fine-tuned and deployed **Qwen3-VL** for document AI, processing ~200 documents/day at 90–95%+ accuracy
+  - Built automation systems (RPA, ML-based email triage) saving **180+ hours/month** across banking operations
 
 </details>
 

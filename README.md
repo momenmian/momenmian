@@ -7,7 +7,11 @@
   </a>
 </h2>
 <div align="center">
- <img alt="GIF" src="https://github.com/momenmian/momenmian/blob/main/icons/Darth Vader.gif" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/header-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="images/header-light.svg" />
+    <img alt="Momen Miah — AI Engineer, LLM &amp; automation systems at BRAC Bank PLC" src="images/header-light.svg" width="100%" />
+  </picture>
 </div>
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
